@@ -1,0 +1,27 @@
+[
+  {
+    "username": "Connor McDavid",
+    "email": "McJesus@gmail.com",
+    "password": "password01"
+  },
+  {
+    "username": "Wayno",
+    "email": "TheGreatOne@gmail.com",
+    "password": "password02"
+  },
+  {
+    "username": "Ovie8",
+    "email": "Great8@gmail.com",
+    "password": "password03"
+  },
+  {
+    "username": "Sid the Kid",
+    "email": "crosby@gmail.com",
+    "password": "password04"
+  },
+  {
+    "username": "BG",
+    "email": "BeeGee@gmail.com",
+    "password": "password05"
+  }
+]
